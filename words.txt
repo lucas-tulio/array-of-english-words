@@ -192744,6 +192744,7 @@ quotition
 quotitions
 quotum
 quotums
+quran
 qursh
 qurshes
 qurush
@@ -265878,6 +265879,7 @@ vitriolizing
 vitriolled
 vitriolling
 vitriols
+vitro
 vitta
 vittae
 vittate
