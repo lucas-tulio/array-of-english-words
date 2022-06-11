@@ -146940,6 +146940,7 @@ mocha
 mochas
 mochell
 mochells
+mochi
 mochie
 mochier
 mochiest
